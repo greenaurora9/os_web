@@ -5,7 +5,7 @@
 
 
 DB
--Cards
+-Credits
 key
 c1 가전/가구
 c2 가정생활/서비스
