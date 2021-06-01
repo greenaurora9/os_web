@@ -15,6 +15,23 @@ Com - 회사명
 Sep - 내용 구분 (Cash : 현금및현금성자산, Liabilities : 부채총계, Capital : 자본금)
 Cap - 자본(단위 : 원)
 
+고급 식당 매출 추이
+/restaurants
+단위 : 억원
+
+id - 1 : 2018년 2 : 2019년 3 : 2020년
+jan - 1월
+feb - 2월
+mar - 3월
+apr - 4월
+may - 5월
+jun - 6월
+jap - 일식
+kor - 한식
+chi - 중식
+west - 양식
+
+
 재택지수
 /homes
 
