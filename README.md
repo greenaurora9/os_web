@@ -2,21 +2,4 @@
 8조 나동규
 조별 과제 Back-End 담당
 
-
-
-DB
--Credits
-key
-c1 가전/가구
-c2 가정생활/서비스
-c3 교육/학원
-c4 미용
-c5 스포츠/문화/레저
-c6 여행/교통
-c7 요식/유흥
-c8 유통
-c9 음/식료품
-c10 의료
-c11 자동차
-c12 주유
-c13 패션/잡화
+GCP에 Ubuntu 운영체제 설치, Flask 사용, DB Headless CMS Strapi 사용.
